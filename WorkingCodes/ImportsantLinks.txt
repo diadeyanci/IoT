@@ -1,0 +1,12 @@
+For SPIFFS related and JavaScript:
+
+https://techtutorialsx.com/2018/10/04/esp32-http-web-server-serving-external-javascript-file/
+
+https://techtutorialsx.com/2019/02/23/esp32-arduino-list-all-files-in-the-spiffs-file-system/
+
+https://tttapa.github.io/ESP8266/Chap11%20-%20SPIFFS.html
+
+https://stackoverflow.com/questions/51580059/esp8266-serving-htmljs
+
+
+https://arduino-esp8266.readthedocs.io/en/latest/filesystem.html
